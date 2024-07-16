@@ -1,0 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+<model:MDescriptors xmlns:model="http://www.silabs.com/ss/Studio.ecore">
+ <descriptors label="Platform - BRD4400C EFR32ZG28 EUSART Async Half Duplex" description="This project demonstrates operation of the EUSART in a half-duplex, single link configuration.  One wire is used to communicate between the EUSARTs on two different devices such that only one device can be transmitting at any given time.  This entails the EUSART on o...">
+    <properties key="core.boardCompatibility" value="brd4400c"/>
+    <properties key="core.partCompatibility" value="mcu.arm.efr32.zg.*"/>
+    <properties key="defaultName" value="BRD4400C_EFR32ZG28_eusart_async_half_duplex"/>
+    <properties key="quality" value="Evaluation"/>
+    <properties key="template.category" value="EUSART"/>
+    <properties key="template.initiallyOpenedResource" value="readme.txt"/>
+    <properties key="template.projectFilePaths" value="series2/eusart/async_half_duplex/SimplicityStudio/BRD4400C_EFR32ZG28_eusart_async_half_duplex.slsproj"/>
+  </descriptors>
+</model:MDescriptors>
